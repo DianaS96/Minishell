@@ -19,6 +19,18 @@ Use Ctrl-C to display new prompt on new line, Ctrl-D to quit the program. Ctrl-\
   * env with no options or arguments <br>
   * exit with no options <br>
 
+<details>
+  <summary>Click to see video</summary>
+  
+  > <video src="https://user-images.githubusercontent.com/81222865/169703494-f64163cb-7c68-423a-a8ec-de825d6c980d.mov" type="video/mp4" width="2rem" controls>
+</video>)
+</details>
+
+
 ## Usage
 1. Create executable file using command **`make`**
 2. Run the program (**`./minishell`**)
+
+## Authors
+* <a href="https://github.com/sslowpok">Alexey</a> (pipes, redirects, signals, builtins)
+* <a href="https://github.com/DianaS96">Diana</a> (parser, builtins)
